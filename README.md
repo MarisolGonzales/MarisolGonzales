@@ -1,5 +1,7 @@
 ### Hi there 👋
+I am a technical degree in game designer 
 
+<img align="right" width=300px alt="Unicorn" src="https://tenor.com/es/view/game-gif-21158039" />
 <!--
 **MarisolGonzales/MarisolGonzales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
