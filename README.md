@@ -1,7 +1,7 @@
 ### Hi there 👋
-I am a technical degree in game designer 
-
-<img align="right" width=300px alt="Unicorn" src="https://tenor.com/es/view/game-gif-21158039" />
+- I am a technical degree in game designer.
+- 🔭 I’m currently working on a roblox game.
+- 👯 I’m looking to collaborate on interesting projects.
 <!--
 **MarisolGonzales/MarisolGonzales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
